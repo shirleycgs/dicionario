@@ -1,11 +1,6 @@
 body{
     font-family: Open Sans, sans-serif;
     background-color: #eb99b4;
-    /*background-image:url(picture.jpg);
-    background-repeat: space;
-    -define se a imagem de fundo "rola" ou não com a tela-
-    background-attachment: fixed;
-    text-align: center;*/
 }
 
 header{
@@ -124,33 +119,3 @@ h5{
 h5:hover {
     color: #a609a9;
   }
-
-
-
-/*@media screen and (max/min-width) {} ou usar @media (max/min-width) {}, qe dá conta de qualquer tipo de mídia*/
-
-
-
-
-/*
-Informações importantes para seu projeto ficar igual ao da instrutora Aline:
-
-Fonte: Open Sans, sem serifa
-
-Cabeçalho: altura 100px; borda inferior 1px sólida e na cor #000; espaçamento externo inferior de 40px
-Texto do cabeçalho: letras maiúsculas; espaçamento externo inferior 0
-
-Seção dos cartões: espaçamento externo superior e inferior 0; espaçamento externo laterais automáticas; display block; largura máxima de 1024 px; largura 100%
-
-Cartão: display inline-block; espaçamento externo 10px; borda 1px sólida e cor #000; alinhamento vertical top; altura máxima 100%
-
-Cartão (imagem):   display block; largura 300px; altura 300px
-
-Cartão (details): largura 300px; altura automática;  display inline-block
-
-Cartão (sumário): tamanho da fonte 18px; espaçamento interno 10px;
-
-Cartão (parágrafo): espaçamento interno 0 10px
-
-Cartão (citação): cor #777; estilo da fonte itálico
-*/
